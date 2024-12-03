@@ -1,0 +1,16 @@
+dep_req/
+bert_embeddings.pkl
+bert_model.pkl
+bert_tokenizer.pkl
+bm25.pkl
+doc_ids.pkl
+instance/tunefinder.db
+web/backend/preprocessing/optimized_audio_fingerprint_database.csv
+web/frontend/src/Config.json
+*.pyc
+**/__pycache__/**
+**/__pycache__/
+web/backend/uploads/
+.DS_Store
+.dockerignore
+.env
